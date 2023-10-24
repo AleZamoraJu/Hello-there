@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alejandro Zamoa Juárez
+- 👋 Hi, I’m Alejandro Zamora Juárez
 - 🌱 I’m currently learning C++, Unreal Engine and Unity.
 - 📫 You can reach me trough:
 
