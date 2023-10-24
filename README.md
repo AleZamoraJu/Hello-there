@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Alejandro Zamora Juárez
+- 👋 Hi, I’m Alejandro Zamora Juárez.
+- :mortar_board:  I'm currently studying videogames at UDIT.
 - 🌱 I’m currently learning C++, Unreal Engine and Unity.
 - 📫 You can reach me trough:
 
