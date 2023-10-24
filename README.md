@@ -2,8 +2,9 @@
 - 🌱 I’m currently learning C++, Unreal Engine and Unity.
 - 📫 You can reach me trough:
 
-  :e-mail: alezamoraju@gmail.com
-  :briefcase: [My personal linkedin]([https://www.google.com](https://www.linkedin.com/in/alejandro-zamora-b05690216/))
+  :e-mail: [My personal e-mail](alezamoraju@gmail.com)
+  :briefcase:
+ [My personal linkedin](https://www.linkedin.com/in/alejandro-zamora-b05690216/)
 
 <!---
 AleZamoraJu/AleZamoraJu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
