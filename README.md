@@ -5,7 +5,7 @@
 
   :e-mail: [My personal e-mail](alezamoraju@gmail.com)
   :briefcase:
- [My personal linkedin](https://www.linkedin.com/in/alejandro-zamora-b05690216/](https://www.linkedin.com/in/alejandro-z-9a93a72b0/))
+ [My personal linkedin](https://www.linkedin.com/in/alejandro-z-9a93a72b0/)
 
 <!---
 AleZamoraJu/AleZamoraJu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
